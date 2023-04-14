@@ -153,6 +153,94 @@
                                  "trait_type":   "effect",    "value":"deal 2 damage to all opponent cards"}
                ]
          
+      },
+  {
+         "id":7,
+
+            "name":"Stormfire Sword",
+            "description":"Aspect of Harmony Ingame Card",
+            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmeHvJt6xzdQMWgmYFBgqswNAVX44LbpXzaUmNaM4KoWBm/Stormfire%20Sword.png",
+            "attributes":[
+               {
+                                 "trait_type":   "rarity",  "value":"Epic rare"},
+               {
+                                 "trait_type":   "card-type",  "value":"Spell"},
+               {
+                                 "trait_type":   "cost",  "value":"2 Mana"},
+               {
+                                 "trait_type":   "attack",  "value":"-"},
+               {
+                                 "trait_type":   "defense",    "value":"-"},
+               {
+                                 "trait_type":   "effect",    "value":"give +3 attack and +2 defense to a friendly Monster"}
+               ]
+         
+      },
+  {
+         "id":8,
+
+            "name":"Lightning Strike",
+            "description":"Aspect of Harmony Ingame Card",
+            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmV5GrU2hBJ1swHTwSo4wEisSn6hMQYKofqGddQtFMvhdG/Lightning%20Strike.png",
+            "attributes":[
+               {
+                                 "trait_type":   "rarity",  "value":"Common"},
+               {
+                                 "trait_type":   "card-type",  "value":"Spell"},
+               {
+                                 "trait_type":   "cost",  "value":"2 Mana"},
+               {
+                                 "trait_type":   "attack",  "value":"-"},
+               {
+                                 "trait_type":   "defense",    "value":"-"},
+               {
+                                 "trait_type":   "effect",    "value":"deal 3 damage to an opponent card"}
+               ]
+         
+      },
+  {
+         "id":9,
+
+            "name":"Child of Fire",
+            "description":"Aspect of Harmony Ingame Card",
+            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmTmHERGrrjeUzBkXzVNRNTiv8LhuMe1AuHhy1ihQpEuDH/Child_of_Fire.png",
+            "attributes":[
+               {
+                                 "trait_type":   "rarity",  "value":"Epic rare"},
+               {
+                                 "trait_type":   "card-type",  "value":"Monster"},
+               {
+                                 "trait_type":   "cost",  "value":"5 Mana"},
+               {
+                                 "trait_type":   "attack",  "value":"3"},
+               {
+                                 "trait_type":   "defense",    "value":"5"},
+               {
+                                 "trait_type":   "effect",    "value":"deal 2 damage to all opponent cards"}
+               ]
+         
+      },
+  {
+         "id":10,
+
+            "name":"Aria, Thunder Arrow",
+            "description":"Aspect of Harmony Ingame Card",
+            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmVAiwUeShuMCNVMcppdBQj97reCdVWWELgznUZSqxwaPg/Aria%2CThunder%20Arrow.png",
+            "attributes":[
+               {
+                                 "trait_type":   "rarity",  "value":"Rare"},
+               {
+                                 "trait_type":   "card-type",  "value":"Monster"},
+               {
+                                 "trait_type":   "cost",  "value":"3 Mana"},
+               {
+                                 "trait_type":   "attack",  "value":"3"},
+               {
+                                 "trait_type":   "defense",    "value":"2"},
+               {
+                                 "trait_type":   "effect",    "value":"deal 1 damage to an opponent card"}
+               ]
+         
       }
    ]
 }
