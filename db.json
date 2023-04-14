@@ -22,7 +22,28 @@
 ]
        
       },
+      {
+         "id":1,
 
+            "name":"Skeleton",
+            "description":"Aspect of Harmony Ingame Card",
+            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmcFRrtk84UdtkvBCp19PxPuPRutdHVWD8VQ4wQrZUaQbu/Skeleton.png",
+            "attributes":[
+               {
+                                 "trait_type":   "rarity",  "value":"Common"},
+               {
+                                 "trait_type":   "card-type",  "value":"Monster"},
+               {
+                                 "trait_type":   "cost",  "value":"1 Mana"},
+               {
+                                 "trait_type":   "attack",  "value":"1"},
+               {
+                                 "trait_type":   "defense",    "value":"1"},
+               {
+                                 "trait_type":   "effect",    "value":"no effect"}
+               ]
+         
+      },
     {
          "id":2,
 
